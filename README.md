@@ -21,3 +21,5 @@ The following environment variables are required to run the WeCare backend:
 
 
 ## License
+
+This project is licensed under the MIT License.
